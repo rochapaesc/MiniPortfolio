@@ -2,8 +2,6 @@
 
 Este é o meu mini portfólio online, onde compartilho links para as minhas redes sociais.
 
-![Página Inicial](https://github.com/RochaGabriell/MiniPortfolio/blob/main/.github/page.png?raw=true)
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
